@@ -23,3 +23,6 @@ Preprint paper link can be found at [...]<br />
 
 ## Dataset
 Dresden Image Database can be found at [https://www.kaggle.com/datasets/micscodes/dresden-image-database]<br />
+
+## Industrial Collaboration
+This work was completed through collaboration with [CameraForensics](https://www.cameraforensics.com/), an IT company based in Bristol, UK.
