@@ -19,7 +19,7 @@ higher detection accuracy but can also significantly improve processing speed
 [Shaunagh Downing](https://www.cameraforensics.com/about/shaunagh-downing/), [Freddie Lichtenstein](https://www.cameraforensics.com/about/fred-lichtenstein/), [Matt Burns](https://www.cameraforensics.com/about/matt-burns/)
 
 ## ArXiv link
-Preprint paper link can be found at [...]<br />
+Preprint paper link can be found at [https://arxiv.org/abs/2507.01712]<br />
 
 ## Dataset
 Dresden Image Database can be found at [https://www.kaggle.com/datasets/micscodes/dresden-image-database]<br />
