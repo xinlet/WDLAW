@@ -11,7 +11,7 @@ This avoids the final inversion step of the denoising algorithm and allows fin-
 gerprint comparisons to be made directly in the wavelet domain. As such, our
 modification streamlines the extraction and comparison process. Experimental
 results on real-world datasets demonstrate that our method not only achieves
-higher detection accuracy but can also significantly improve processing speed
+higher detection accuracy but can also significantly improve processing speed.
 
 ## Authors
 
