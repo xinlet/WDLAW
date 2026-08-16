@@ -2,16 +2,7 @@
 
 ## Abstract
 
-Camera fingerprint detection plays a crucial role in source identification and
-image forensics, with wavelet denoising approaches proving to be particularly
-effective in extracting sensor pattern noise (SPN). In this article, we propose
-a modification to wavelet-based SPN extraction. Rather than constructing the
-fingerprint as an image, we introduce the notion of a wavelet domain fingerprint.
-This avoids the final inversion step of the denoising algorithm and allows fin-
-gerprint comparisons to be made directly in the wavelet domain. As such, our
-modification streamlines the extraction and comparison process. Experimental
-results on real-world datasets demonstrate that our method not only achieves
-higher detection accuracy but can also significantly improve processing speed.
+Camera fingerprint detection plays a crucial role in source identification and image forensics, with wavelet denoising approaches proving particularly effective for extracting sensor pattern noise (SPN). In this article, we introduce the concept of a wavelet domain (WD) fingerprint, redefining the representation of the extracted fingerprint from the conventional image domain to the native wavelet coefficient domain. Rather than reconstructing the fingerprint as a spatial domain image, fingerprint comparison is performed directly on the wavelet coefficients, eliminating the final inverse transform and subsequent image-domain post-processing. This reformulation streamlines the fingerprint extraction and comparison pipeline while preserving the information required for source camera identification. The proposed framework is applicable to existing wavelet-based SPN extraction methods and is demonstrated using two representative state-of-the-art pipelines. Experimental results on real-world datasets show that the proposed approach significantly reduces computational cost, making it well-suited for large-scale source camera identification applications.
 
 ## Authors
 
