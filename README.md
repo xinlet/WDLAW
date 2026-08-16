@@ -9,7 +9,8 @@ Camera fingerprint detection plays a crucial role in source identification and i
 [Xinle Tian](https://xinlet.github.io/), [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html), [Emiko Dupont](https://researchportal.bath.ac.uk/en/persons/emiko-dupont/), 
 [Shaunagh Downing](https://www.cameraforensics.com/about/shaunagh-downing/), [Freddie Lichtenstein](https://www.cameraforensics.com/about/fred-lichtenstein/), [Matt Burns](https://www.cameraforensics.com/about/matt-burns/)
 
-## ArXiv link
+## Links
+Forensic Science International: Digital Investigation link can be found at []<br />
 Preprint paper link can be found at [https://arxiv.org/abs/2507.01712]<br />
 
 ## Dataset
