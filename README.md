@@ -10,7 +10,7 @@ Camera fingerprint detection plays a crucial role in source identification and i
 [Shaunagh Downing](https://www.cameraforensics.com/about/shaunagh-downing/), [Freddie Lichtenstein](https://www.cameraforensics.com/about/fred-lichtenstein/), [Matt Burns](https://www.cameraforensics.com/about/matt-burns/)
 
 ## Links
-Forensic Science International: Digital Investigation link can be found at []<br />
+Forensic Science International: Digital Investigation link can be found at [https://doi.org/10.1016/j.fsidi.2026.302196]<br />
 Preprint paper link can be found at [https://arxiv.org/abs/2507.01712]<br />
 
 ## Dataset
